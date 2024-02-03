@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.title1{
+    background-color: green;
+    padding: 10px;
+    height: 70px;
+    width: 300px;
+}
+.title2{
+    background-color: yellow;
+    padding: 10px;
+    height: 70px;
+    width: 300px;
+}
